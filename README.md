@@ -1,7 +1,8 @@
 # Namaste 🙏
 ![Sagar Gif](https://media.giphy.com/media/EITy9Os7Wsi239FerZ/giphy.gif)
 
-I'm B C SAGAR, Techie and Fitness Freak.
+
+I'm B C SAGAR, Techie and Fitness Freak. Leader. I Love My Team.
 - 🔭 Research on Life.   Guide: Bhagavad Gita.
 - 🌱 I’m currently learning to Live and Focus on Present.
 - 👯 I’m looking to collaborate on Innovation and technology helpful to the Mankind.
