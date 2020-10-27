@@ -1,12 +1,5 @@
 # Namaste 🙏
-[email-icon]: https://img.icons8.com/color/48/000000/message-squared.png
-[99bcssagar@gmail.com]: mailto:99bcsagar@gmail.com
-[linkedin-icon]: https://img.icons8.com/color/48/000000/linkedin.png
-[Linkedin]: https://www.linkedin.com/in/
-[github-icon]: https://img.icons8.com/color/48/000000/github--v1.png
-[GitHub]: https://github.com/99bcsagar
-
-![Uzoma Medium Gif](https://media.giphy.com/media/EITy9Os7Wsi239FerZ/giphy.gif)
+![Sagar Gif](https://media.giphy.com/media/EITy9Os7Wsi239FerZ/giphy.gif)
 
 I'm B C SAGAR, Techie and Fitness Freak.
 - 🔭 Research on Life.   Guide: Bhagavad Gita.
