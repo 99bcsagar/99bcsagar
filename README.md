@@ -12,3 +12,5 @@ I'm B C SAGAR, Techie and Fitness Freak. Leader. I Love My Team.
 - 📫 How to reach me:99bcsagar@gmail.com
 - 😄 Pronouns:He/Him.
 - ⚡ Fun fact:I love jack sparrow.
+- GeeksforGeeks Campus Lead.
+- Founder @ InfiniteIntillegence.
