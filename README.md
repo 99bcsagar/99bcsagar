@@ -4,6 +4,7 @@
 
 I'm B C SAGAR, Techie and Fitness Freak. Leader. I Love My Team.
 - 🔭 Research on Life.   Guide: Bhagavad Gita.
+- Taught Open Source to Many Students.
 - 🌱 I’m currently learning to Live and Focus on Present.
 - 👯 I’m looking to collaborate on Innovation and technology helpful to the Mankind.
 - 🤔 I’m looking for help with Coding, Data Science and NLP.
