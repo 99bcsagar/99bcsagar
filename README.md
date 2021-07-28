@@ -3,11 +3,11 @@
 
 
 I'm B C SAGAR, Techie and Fitness Freak. Leader. I Love My Team.
-- 🔭 Research in AI and Space Science.
+- 🔭 Research in AI and Space Science also Quantum Computers.
 - Taught Open Source to Many Students.
 - 🌱 I’m currently learning to Live and Focus on Present.
 - 👯 I’m looking to collaborate on Innovation and technology helpful to the Mankind.
-- 🤔 I’m looking for help with Coding, Data Science and Rocket Technology.
+- 🤔 I’m looking for help with Quantum mechanics, Data Science and Rocket Technology.
 - 💬 Ask me about Anything.I'll answer,Incase I know.
 - 📫 How to reach me:99bcsagar@gmail.com
 - 😄 Pronouns:He/Him.
