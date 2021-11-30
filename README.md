@@ -1,4 +1,4 @@
-# Namaste 🙏
+# Namaskara 🙏
 ![Sagar Gif](https://media.giphy.com/media/EITy9Os7Wsi239FerZ/giphy.gif)
 
 
